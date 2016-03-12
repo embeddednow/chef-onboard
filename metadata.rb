@@ -1,0 +1,7 @@
+name 'chef-onboard'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures chef-onboard'
+long_description 'Installs/Configures chef-onboard'
+version '0.1.0'
