@@ -1,4 +1,4 @@
-# chef-onboard
+# onboard
 
 TODO: Enter the cookbook description here.
 
