@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name="Onboard"
+Comment="Onscreen keyboard"
+Exec="onboard"
+Hidden=false
+NoDisplay=false
+Terminal=false
