@@ -4,6 +4,6 @@ Encoding=UTF-8
 Name="Onboard"
 Comment="Onscreen keyboard"
 Exec="onboard"
-Hidden=false
+Hidden=true
 NoDisplay=false
 Terminal=false
